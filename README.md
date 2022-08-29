@@ -2,10 +2,10 @@
 ## *My reading notes for code fellows*
 
 ### Hi my name is **Nick**.  I like video games and Legos. My fav DC hero is Batman.
-<img src="https://github.com/enviouscodefellow/reading-notes/blob/main/seidel%20batman.jpg" width=40% height=40%>
+<img src="seidel batman.jpg" width=40% height=40%>
 
 
-<img src="https://github.com/enviouscodefellow/reading-notes/blob/main/Rich.gif" width=40% height=40%>
+<img src="Rich.gif" width=40% height=40%>
 
 
 #### 3 reminders to keep myself in the growth mindset:
