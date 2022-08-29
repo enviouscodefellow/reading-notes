@@ -5,7 +5,7 @@
 <img src="https://github.com/enviouscodefellow/reading-notes/blob/main/seidel%20batman.jpg" width=40% height=40%>
 
 
-
+<img src="https://github.com/enviouscodefellow/reading-notes/blob/main/Rich.gif" width=40% height=40%>
 
 
 #### 3 reminders to keep myself in the growth mindset:
