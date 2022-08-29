@@ -1,7 +1,7 @@
-# reading-notes
-My reading notes for code fellows
+# Code Fellows reading-notes
+*My reading notes for code fellows*
 
-Hi my name is Nick.  I like video games and Legos.
+Hi my name is **Nick**.  I like video games and Legos.
 
 3 reminders to keep myself in the growth mindset:
 
