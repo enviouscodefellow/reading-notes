@@ -9,4 +9,4 @@
 - Keep trying!
 - Commit to learning something new each day.
 
-##### Link to my [Github profile:] (https://enviouscodefellow.github.io/reading-notes/)
+##### Link to my [Github](https://enviouscodefellow.github.io/reading-notes/) profile.
