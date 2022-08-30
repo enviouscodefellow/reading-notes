@@ -21,6 +21,9 @@ Hi my name is **Nick**.  I like video games and Legos. My fav DC hero is Batman.
 
 ### Read 01 Notes
 
+[GitHub Markdown Syntax] [1]
+[1]: <[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://www.markdownguide.org/basic-syntax/)>
+
 #### Escaping Characters
 To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash (\) in front of the character.
 
@@ -43,8 +46,8 @@ Although not required, you can include a space between the first and second set 
 
 This means the following example formats are roughly equivalent for the first part of the link:
 
-\[hobbit-hole]\[1]
-\[hobbit-hole] \[1]
+* \[hobbit-hole]\[1]
+* \[hobbit-hole] \[1]
 
 ##### Formatting the Second Part of the Link
 The second part of a reference-style link is formatted with the following attributes:
@@ -55,13 +58,13 @@ The second part of a reference-style link is formatted with the following attrib
 
 This means the following example formats are all roughly equivalent for the second part of the link:
 
-\[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
-\[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
-\[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle 'Hobbit lifestyles'
-\[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle (Hobbit lifestyles)
-\[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
-\[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> 'Hobbit lifestyles'
-\[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> (Hobbit lifestyles)
+* \[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+* \[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
+* \[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle 'Hobbit lifestyles'
+* \[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle (Hobbit lifestyles)
+* \[1]: \<https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+* \[1]: \<https://en.wikipedia.org/wiki/Hobbit#Lifestyle> 'Hobbit lifestyles'
+* \[1]: \<https://en.wikipedia.org/wiki/Hobbit#Lifestyle> (Hobbit lifestyles)
 
 You can place this second part of the link anywhere in your Markdown document. Some people place them immediately after the paragraph in which they appear while other people place them at the end of the document (like endnotes or footnotes).
 
