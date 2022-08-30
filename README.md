@@ -69,3 +69,20 @@ This means the following example formats are all roughly equivalent for the seco
 You can place this second part of the link anywhere in your Markdown document. Some people place them immediately after the paragraph in which they appear while other people place them at the end of the document (like endnotes or footnotes).
 
 ### Read 02 Notes
+
+#### Linux Tutorial - 3. More About Files
+##### Summary
+
+**Stuff we Learnt**
+* file:
+    obtain information about what type of file a file or directory is.
+* ls -a:
+    List the contents of a directory, including hidden files.
+
+**Important Concepts**
+* Everything is a file under Linux
+    Even directories.
+* Linux is an extensionless system
+    Files can have any extension they like or none at all.
+* Linux is case sensitive
+    Beware of silly typos.
