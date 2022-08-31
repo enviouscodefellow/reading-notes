@@ -1,6 +1,11 @@
 # Code Fellows reading-notes
 ## *My reading notes for code fellows*
 
+Links to class pages:
+[Class 1](class1.md)
+[Class 2](class2.md)
+[Class 3](class3.md)
+
 ### Introduction
 
 Hi my name is **Nick**.  I like video games and Legos. My fav DC hero is Batman.
