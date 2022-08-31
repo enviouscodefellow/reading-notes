@@ -1,5 +1,7 @@
 ### Read 02 Notes
 
+[Home](README.md)
+
 #### Linux Tutorial - 1. The Command Line
 ##### Shortcuts
 
