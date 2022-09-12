@@ -2,7 +2,7 @@
 
 ## *My reading notes for code fellows*
 
-Links to class pages:
+## Links to class 102 pages:
 [Class 1](class1.md)
 [Class 2](class2.md)
 [Class 3](class3.md)
@@ -12,6 +12,22 @@ Links to class pages:
 [Class 7](class7.md)
 [Class 8](class8.md)
 
+## Links to class 201 pages:
+[Day 1](201day01.md)
+[Day 2](201day02.md)
+[Day 3](201day03.md)
+[Day 4](201day04.md)
+[Day 5](201day05.md)
+[Day 6](201day06.md)
+[Day 7](201day07.md)
+[Day 8](201day08.md)
+[Day 9](201day09.md)
+[Day 10](201day10.md)
+[Day 11](201day11.md)
+[Day 12](201day12.md)
+[Day 13](201day13.md)
+[Day 14](201day14.md)
+[Day 15](201day15.md)
 
 ### Introduction
 
