@@ -33,30 +33,30 @@
 
 ## Links to class 301 pages:
 
-[Day 1](301 notes/301day01.md)
-[Day 2](301 notes/301day02.md)
-[Day 3](301 notes/301day03.md)
-[Day 4](301 notes/301day04.md)
-[Day 5](301 notes/301day05.md)
-[Day 6](301 notes/301day06.md)
-[Day 7](301 notes/301day07.md)
-[Day 8](301 notes/301day08.md)
-[Day 9](301 notes/301day09.md)
-[Day 10](301 notes/301day10.md)
-[Day 11](301 notes/301day11.md)
-[Day 12](301 notes/301day12.md)
-[Day 13](301 notes/301day13.md)
-[Day 14](301 notes/301day14.md)
-[Day 15](301 notes/301day15.md)
+[Day 1](301 notes/301class01.md)
+[Day 2](301 notes/301class02.md)
+[Day 3](301 notes/301class03.md)
+[Day 4](301 notes/301class04.md)
+[Day 5](301 notes/301class05.md)
+[Day 6](301 notes/301class06.md)
+[Day 7](301 notes/301class07.md)
+[Day 8](301 notes/301class08.md)
+[Day 9](301 notes/301class09.md)
+[Day 10](301 notes/301class10.md)
+[Day 11](301 notes/301class11.md)
+[Day 12](301 notes/301class12.md)
+[Day 13](301 notes/301class13.md)
+[Day 14](301 notes/301class14.md)
+[Day 15](301 notes/301class15.md)
 
 ### Introduction
 
 Hi my name is **Nick**.  I like video games and Legos. My fav DC hero is Batman.
 
-<img src="./imgs/seidel batman.jpg" width=40% height=40%>
+<img src="imgs/seidel batman.jpg" width=40% height=40%>
 
 
-<img src="./imgs/Rich.gif" width=40% height=40%>
+<img src="imgs/Rich.gif" width=40% height=40%>
 
 
 #### 3 reminders to keep myself in the growth mindset:
