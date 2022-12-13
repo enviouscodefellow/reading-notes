@@ -71,9 +71,9 @@
 
 Hi my name is **Nick**.  I like video games and Legos. My fav DC hero is Batman.
 
-![seidel justice league](/imgs/seidel%20batman.jpg){ width=40%,height=40% }
+![seidel justice league](/imgs/seidel%20batman.jpg){ width:40%,height:40% }
 
-![i'm rich](/imgs/Rich.gif){width=40% height=40%}
+![i'm rich](/imgs/Rich.gif){width:40% height:40%}
 
 #### 3 reminders to keep myself in the growth mindset
 
