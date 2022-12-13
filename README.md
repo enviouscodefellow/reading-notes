@@ -81,4 +81,4 @@ Hi my name is **Nick**.  I like video games and Legos. My fav DC hero is Batman.
 - Keep trying!
 - Commit to learning something new each day.
 
-##### Link to my [Github](https://enviouscodefellow.github.io/reading-notes/) profile
+##### Link to my [Github](https://github.com/enviouscodefellow) profile
