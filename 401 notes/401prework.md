@@ -16,22 +16,22 @@
 
 #### SQL Practice
 
-![Lesson1](/imgs/401/SQL%20lesson%201.jpg)
+![Lesson1](/imgs/401/SQLlesson1.jpg)
 
-![Lesson2](/imgs/401/SQL%20lesson%202.jpg)
+![Lesson2](/imgs/401/SQLlesson2.jpg)
 
-![Lesson3](/imgs/401/SQL%20lesson%203.jpg)
+![Lesson3](/imgs/401/SQLlesson3.jpg)
 
-![Lesson4](/imgs/401/SQL%20lesson%204.jpg)
+![Lesson4](/imgs/401/SQLlesson4.jpg)
 
-![Lesson5](/imgs/401/SQL%20lesson%205.jpg)
+![Lesson5](/imgs/401/SQLlesson5.jpg)
 
-![Lesson6](/imgs/401/SQL%20lesson%206.jpg)
+![Lesson6](/imgs/401/SQLlesson6.jpg)
 
-![Lesson13](/imgs/401/SQL%20lesson%2013.jpg)
+![Lesson13](/imgs/401/SQLlesson13.jpg)
 
-![Lesson14](/imgs/401/SQL%20lesson%2014.jpg)
+![Lesson14](/imgs/401/SQLlesson14.jpg)
 
-![Lesson15](/imgs/401/SQL%20lesson%2015.jpg)
+![Lesson15](/imgs/401/SQLlesson15.jpg)
 
-![Lesson16](/imgs/401/SQL%20lesson%2016.jpg)
+![Lesson16](/imgs/401/SQLlesson16.jpg)
