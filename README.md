@@ -51,6 +51,7 @@
 
 ## Links to class 401 pages
 
+[Prework](401 notes/401prework.md)
 [Day 1](401 notes/401class01.md)
 [Day 2](401 notes/401class02.md)
 [Day 3](401 notes/401class03.md)
