@@ -72,7 +72,7 @@
 
 Hi my name is **Nick**.  I like video games and Legos. My fav DC hero is Batman.
 
-![seidel justice league](/imgs/seidelbatman.jpg){:height="10%"width="10%"}
+![seidel justice league](/imgs/seidelbatman.jpg){:height="5%"width="5%"}
 
 ![i'm rich](/imgs/Rich.gif){:height="40%"width="40%"}
 
