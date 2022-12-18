@@ -4,6 +4,8 @@
 
 [Home](./README.md)
 
+#### Introduction to SQL
+
 [Learn SQL - SELECT](https://dataschool.com/learn-sql/select/)
 
 [Learn SQL - FROM](https://dataschool.com/learn-sql/from/)
@@ -14,7 +16,7 @@
 
 [Learn SQL - SCHEMA](https://dataschool.com/learn-sql/schema-browsing/)
 
-#### SQL Practice
+
 
 ![Lesson1](../imgs/401/SQLlesson1.jpg)
 
@@ -35,3 +37,17 @@
 ![Lesson15](../imgs/401/SQLlesson15.jpg)
 
 ![Lesson16](../imgs/401/SQLlesson16.jpg)
+
+#### Git Practice
+
+
+
+
+
+#### Practice in the Terminal
+
+
+
+#### Python Practice
+
+Python seems to be more intuitive that JS in many regards.  I'm excited to start working with a little more structure. ;)
