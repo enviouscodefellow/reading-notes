@@ -40,14 +40,12 @@
 
 #### Git Practice
 
-
-
-
-
 #### Practice in the Terminal
-
-
 
 #### Python Practice
 
 Python seems to be more intuitive that JS in many regards.  I'm excited to start working with a little more structure. ;)
+
+#### Things I want to know more about
+
+Emotional intelligence is a hot topic now.  It's important to be able to assess and understand oneself before assessing others though.  Without that it seems pretty ineffective...
