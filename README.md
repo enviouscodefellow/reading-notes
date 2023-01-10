@@ -67,6 +67,21 @@
 [Day 13](401 notes/401class13.md)
 [Day 14](401 notes/401class14.md)
 [Day 15](401 notes/401class15.md)
+[Day 16](401 notes/401class16.md)
+[Day 17](401 notes/401class17.md)
+[Day 18](401 notes/401class18.md)
+[Day 19](401 notes/401class19.md)
+[Day 20](401 notes/401class20.md)
+[Day 21](401 notes/401class21.md)
+[Day 22](401 notes/401class22.md)
+[Day 23](401 notes/401class23.md)
+[Day 24](401 notes/401class24.md)
+[Day 25](401 notes/401class25.md)
+[Day 26](401 notes/401class26.md)
+[Day 27](401 notes/401class27.md)
+[Day 28](401 notes/401class28.md)
+[Day 29](401 notes/401class29.md)
+[Day 30](401 notes/401class30.md)
 
 ### Introduction
 
