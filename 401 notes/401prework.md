@@ -78,6 +78,17 @@ File Manipulation:
 
 Python seems to be more intuitive that JS in many regards.  I'm excited to start working with a little more structure. ;)
 
+#### Growth Mindset
+
+* Building software doesn't mean you get better at programming every day
+* Improving your hard technical skills makes all the software you build better
+* It doesn't happen by accident, it requires deliberate practice
+* Deliberate practice is activities designed to effectively improve specific aspects of an individual's performance
+* Deliberate practice requires pushing yourself just outside your comfort zone, being repeated often, receiving feedback on results, being highly demanding mentally, being difficult, and having good goals.
+
+
+
+
 #### Things I want to know more about
 
 Emotional intelligence is a hot topic now.  It's important to be able to assess and understand oneself before assessing others though.  Without that it seems pretty ineffective...
