@@ -2,7 +2,7 @@
 
 ### Prework Notes
 
-[Home](./README.md)
+[Home](../README.md)
 
 #### Introduction to SQL
 
