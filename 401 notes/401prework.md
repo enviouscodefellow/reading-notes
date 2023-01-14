@@ -109,6 +109,23 @@ Graphs are a non-linear data structure, it's a set of vertices and edges, it's u
 
 Each data structure has its own characteristics, advantages and use cases.
 
+#### Python vs JavaScript
+
+Similarities:
+
+* Both Python and JavaScript are high-level, interpreted languages that can be used for a wide range of tasks, including web development, data analysis, and machine learning.
+* Both languages are object-oriented and have similar constructs such as classes, objects, and methods.
+* Both languages have similar syntax and control structures such as loops, conditionals, and functions.
+
+Differences:
+
+* Python is a general-purpose programming language, while JavaScript is primarily used for creating interactive front-end web applications.
+* Python uses indentation to indicate code blocks, while JavaScript uses curly braces.
+* Python has a more extensive standard library than JavaScript, which makes it easier to perform certain tasks such as reading and writing files, connecting to a database, and working with data structures.
+* JavaScript has built-in support for working with web browsers and the Document Object Model (DOM), which is not a feature of Python.
+* Python supports multiple programming paradigms such as object-oriented, imperative and functional programming, while JavaScript supports only object-oriented and functional programming.
+* JavaScript is a loosely typed language, Python is a strongly typed language.
+
 #### Things I want to know more about
 
 Emotional intelligence is a hot topic now.  It's important to be able to assess and understand oneself before assessing others though.  Without that it seems pretty ineffective...
