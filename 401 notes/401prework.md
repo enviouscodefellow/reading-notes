@@ -42,6 +42,38 @@
 
 #### Practice in the Terminal
 
+The Linux Command Line:
+
+* Explanation of what the command line is and its advantages over a graphical user interface
+* Basic commands such as "ls" (list files and directories), "cd" (change directory), "pwd" (show current directory), "mkdir" (create a new directory), and "rmdir" (remove a directory)
+* How to navigate the file system using the command line
+* Basic command line editing and history features
+
+Navigation:
+
+* Using the "cd" command to navigate the file system
+* Understanding the concept of "absolute" and "relative" file paths
+* Using wildcard characters to match multiple files at once
+* Understanding the ".." and "." notation for navigating directories
+
+About Files:
+
+* Explanation of the different types of files in a Linux system, including regular files, directories, symbolic links, and special files
+* Using the "ls" command to view file properties, such as permissions and timestamps
+* Changing file permissions using the "chmod" command
+
+The Manual:
+
+* Explanation of the "man" command and its use for viewing manual pages for different commands
+* Understanding the structure of manual pages and how to navigate them
+
+File Manipulation:
+
+* Copying, moving, and renaming files using the "cp," "mv," and "rename" commands
+* Creating and editing text files using the "touch," "nano," and "vi" commands
+* Using the "rm" command to delete files and directories
+* Compressing and uncompressing files using "gzip" and "tar" commands
+
 #### Python Practice
 
 Python seems to be more intuitive that JS in many regards.  I'm excited to start working with a little more structure. ;)
