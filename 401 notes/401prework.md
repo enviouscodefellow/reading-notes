@@ -86,8 +86,28 @@ Python seems to be more intuitive that JS in many regards.  I'm excited to start
 * Deliberate practice is activities designed to effectively improve specific aspects of an individual's performance
 * Deliberate practice requires pushing yourself just outside your comfort zone, being repeated often, receiving feedback on results, being highly demanding mentally, being difficult, and having good goals.
 
+#### Data Structures
 
+* The 8 common data structures that every programmer must know are:
 
+1. Arrays
+Arrays are a collection of elements of the same type, stored in contiguous memory locations, and can be accessed by index.
+2. Linked Lists
+Linked Lists are a collection of elements called nodes, each node contains a value and a reference to the next node in the list.
+3. Stacks
+Stacks are a last-in-first-out data structure, that means that the last element added to the stack is the first one to be removed.
+4. Queues
+Queues are a first-in-first-out data structure, that means that the first element added to the queue is the first one to be removed.
+5. Trees
+Trees are a hierarchical data structure, it has a root node and child nodes, each node can have multiple child nodes.
+6. Heaps
+Heaps are a specific kind of tree, they have a specific ordering property, either min heap or max heap.
+7. Hash tables
+Hash tables are data structures that store key-value pairs, it's used for efficient searching and insertion operations.
+8. Graphs
+Graphs are a non-linear data structure, it's a set of vertices and edges, it's used to represent a network of relationships.
+
+Each data structure has its own characteristics, advantages and use cases.
 
 #### Things I want to know more about
 
