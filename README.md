@@ -79,7 +79,6 @@
 [Day 37](401 notes/401class37.md)
 [Day 38](401 notes/401class38.md)
 [Day 39](401 notes/401class39.md)
-[Day 40](401 notes/401class40.md)
 [Day 41](401 notes/401class41.md)
 [Day 42](401 notes/401class42.md)
 [Day 43](401 notes/401class43.md)
